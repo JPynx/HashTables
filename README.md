@@ -1,6 +1,6 @@
 # HashTables
 
-Which is a better hash function:
+# Which is a better hash function:
 1. x % n where n is a large number with several factors
 2. x % n where n is a large prime number
   -
